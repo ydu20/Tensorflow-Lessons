@@ -1,2 +1,3 @@
 # Tensorflow-Lessons
-Coded following the video tutorials from dataguru.cn and on a Macbook Pro 2017 15-inch model.
+Coded following video tutorials on dataguru.cn
+All rights reserved by dataguru.cn
